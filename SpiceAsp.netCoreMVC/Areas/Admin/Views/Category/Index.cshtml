@@ -16,7 +16,7 @@
     </div>
     <br />
     <div>
-        @if (Model.Count()>0)
+        @if (Model.Count() > 0)
         {
             <table class="table table-striped border">
                 <tr class="table-secondary">
@@ -30,10 +30,10 @@
                 {
                     <tr>
                         <td>
-                            @Html.DisplayFor(m => item.Name)
+                             @Html.DisplayFor(m => item.Name)
                         </td>
                         <td>
-                            EDIT| DELETE| DETAILS
+                           <partial name="_TableButtonsPartial" model="item.Id"/>
                         </td>
                     </tr>
                 }

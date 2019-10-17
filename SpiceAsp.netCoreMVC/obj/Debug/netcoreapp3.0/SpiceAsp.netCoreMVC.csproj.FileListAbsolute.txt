@@ -462,3 +462,13 @@ D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\net
 D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CreateButtonPartial.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_TableButtonsPartial.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_UpdateAndBackToListButtonsPartial.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_DeleteAndBackToListButtonsPartial.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_EditAndBackToListButtonsPartial.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
