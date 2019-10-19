@@ -18,7 +18,7 @@ namespace SpiceAsp.netCoreMVC.Areas.Admin.Controllers
             _context = context;
         }
 
-        //GET
+        //GET -INDEX
         public async Task<IActionResult> Index()
         {
 

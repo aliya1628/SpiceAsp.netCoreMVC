@@ -472,3 +472,4 @@ D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\net
 D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_DeleteAndBackToListButtonsPartial.cshtml.g.cs
 D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_EditAndBackToListButtonsPartial.cshtml.g.cs
 D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+D:\Aliya\Projects\.NetCore\SpiceAsp.netCoreMVC\SpiceAsp.netCoreMVC\obj\Debug\netcoreapp3.0\Razor\Areas\Admin\Views\SubCategory\Index.cshtml.g.cs
